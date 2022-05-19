@@ -1,0 +1,10 @@
+1- Entre com a marca do veiculo;
+2- Entre com o modelo do veiculo;
+3- Entre com a cor do veiculo;
+4- Abasteça o veiculo (o tanque não aguenta mais de 60L);
+
+Comandos:
+veiculo.ligar(); - Liga o veiculo
+veiculo.acelerar(); - Acelera o veiculo em 20km caso ele esteja ligado
+veiculo.frear(); - Reduz a velocidade em 20km (se o veiculo já estiver parado ira aparecer uma mensagem)
+veiculo.desligar(); - Desliga o veiculo caso ele esteja parado
