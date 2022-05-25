@@ -1,8 +1,0 @@
-Eu não entendi direito se era essa mesmo a proposta mas fiz os exercicios 4, 5 e 6 todos juntos no mesmo programa.
-
-
-1 - Primeiro vai montar a lista com os nomes
-2 - Mostrar a lista completa
-3 - Mostrar apenas a pessoa mais velha
-4 - Verificar e excluir da lista menores de 18 anos
-5 - Verificar se a pessoa Jessica está na lista
