@@ -1,0 +1,9 @@
+Modifiquei algumas coisas e nao ficou 100% igual ao exemplo mas ta funcionando como pede.
+1 - Cria lista de livros;
+2 - Cria lista de video-games;
+3 - Calcula imposto sobre os livros;
+4 - Calcula imposto sobre os video-games (aqui ficou diferente do exemplo o imposto sobre o ps4 novo não sei pq);
+5 - Mostra os livros em estoque;
+6 - Mostra os video-games em estoque;
+7 - Mostra o patrimonio total da loja somando o estoque dos 2 produtos.
+8 - Se não houver livros ou video games aparece uma mensagem.
