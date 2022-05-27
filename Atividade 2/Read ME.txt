@@ -1,0 +1,22 @@
+new Mago = cria um novo mago.
+new Guerreiro = cria um novo guerreio.
+
+.lvlUp() = adiciona 1 nivel no personagem.
+.aprendiarMagia = ensina 1 magia para o mago.
+.aprenderHabilidade = ensina 1 habilidade para o guerreiro.
+mago.listaMagia = mostra todas magias do mago.
+guerreiro.listaHabilidade = Mostra todas habilidades do guerreiro.
+attack() = ataca causando dano.
+
+MAGO: 
+vida + 3/lvl.
+mana + 35/lvl.
+inteligencia + 25/lvl.
+forca +2/lvl.
+
+GUERREIRO:
+vida +30/lvl.
+mana +5/lvl.
+inteligencia +3/lvl.
+forca + 25/lvl.
+
